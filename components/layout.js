@@ -194,10 +194,10 @@ export default function Layout({ children, home }) {
 
 </section>
 
-
 <h1 className={styles.anekdots_txt}>
 Анекдоты
 </h1>
+
 
 <section className={styles.anekdots_gallery}>
  

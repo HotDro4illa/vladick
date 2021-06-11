@@ -399,7 +399,9 @@ a:active .b{
 }
 
 .image_style_gallery{
+
 	  transition: all 0.5s ease;
+
 }
 
 .image_style_gallery:hover{
@@ -408,6 +410,7 @@ a:active .b{
 }
 
 .image_gallery{
+
 	margin: 20px;
 }
 
@@ -436,9 +439,15 @@ a:active .b{
 	font-size: 70px;
 	z-index: 100;
 	position: absolute;
-	top: 270%;
+	top: 268%;
 	font-weight: 300;
 	border-bottom: 2px solid black;
+
+}
+
+.anekdots_txt_sect{
+background-color: white;
+width: 100px;
 }
 
 .anekdots{
